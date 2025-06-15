@@ -1,6 +1,6 @@
 {
   "name": "spatie-for-node",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Essential modules for NestJS applications - Permissions, Media Management, and Storage",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/getankushtyagi/spatie-for-node.git"
+    "url": "git+https://github.com/getankushtyagi/spatie-for-node.git"
   },
   "bugs": {
     "url": "https://github.com/getankushtyagi/spatie-for-node/issues"
